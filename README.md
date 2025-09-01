@@ -2,7 +2,6 @@
 
 This project applies **machine learning models** to predict stock price returns and evaluates **trading strategies** through backtesting.
 
----
 
 ## Overview
 
@@ -10,7 +9,6 @@ This project applies **machine learning models** to predict stock price returns 
 * **Framework**: [BackTrader](https://www.backtrader.com/) for backtesting, results analyzed with PyFolio & QuantStats
 * **Data**: Yahoo Finance (2015-01-01 to 2021-11-12, 10 tickers)
 
----
 
 ## Features
 
@@ -19,7 +17,6 @@ This project applies **machine learning models** to predict stock price returns 
 * Model training & evaluation: Accuracy, Precision, F1, ROC AUC
 * Trading strategies: SMA/EMA trend filters, ATR-based stop-loss & take-profit, dynamic position sizing
 
----
 
 ## Results
 
@@ -30,7 +27,6 @@ This project applies **machine learning models** to predict stock price returns 
   * WMS achieved Sharpe ≈ 0.08, Max Drawdown ≈ -22%
   * DWDP & PGR ranked top in 10-stock universe with low drawdowns
 
----
 
 ## Setup
 
