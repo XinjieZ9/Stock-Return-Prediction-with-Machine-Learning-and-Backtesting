@@ -7,7 +7,7 @@ This project applies **machine learning models** to predict stock price returns 
 
 * **Models**: Logistic Regression (baseline) & Random Forest (non-linear)
 * **Framework**: [BackTrader](https://www.backtrader.com/) for backtesting, results analyzed with PyFolio & QuantStats
-* **Data**: Yahoo Finance (2015-01-01 to 2021-11-12, 10 tickers)
+* **Data**: Yahoo Finance (2015-01-01 to 2018-10-26, 10 tickers)
 
 
 ## Features
